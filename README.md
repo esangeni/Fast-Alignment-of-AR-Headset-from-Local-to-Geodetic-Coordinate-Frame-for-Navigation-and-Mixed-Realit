@@ -1,4 +1,4 @@
-# Fast-Alignment-of-AR-Headset-from-Local-to-Geodetic-Coordinate-Frame-for-Navigation-and-Mixed-Reality-Applications
+# Fast Alignment of AR Headset from Local to Geodetic Coordinate Frame for Navigation and Mixed Reality Applications
 Code from the paper: "Fast-Alignment of AR Headset from Local to Geodetic Coordinate Frame for Navigation and Mixed Reality Applications"
 
 - Still Need to upload the Unity Program
